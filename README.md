@@ -72,8 +72,8 @@ Feel free to contribute! Check out the Contribution Guidelines for more informat
 
 ## 👥 Team - 
 
-1. [ShekharShwetank](https://github.com/ShekharShwetank) - **Team Lead**
-2. [harshitsinghcode](https://github.com/harshitsinghcode)
+1. [harshitsinghcode](https://github.com/harshitsinghcode)
+2. [ShekharShwetank](https://github.com/ShekharShwetank) 
 3. [Shashwat Mishra](https://github.com/Shashwatm74)
 4. [Utkarsh Raunak](https://github.com/utkxrsx)
 
